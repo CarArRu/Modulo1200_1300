@@ -34,7 +34,8 @@ Uint VarExterna=9;
 
 int main(void){
 
-
+    printf("\nPrograma Maestro");
+	
 
     /**goto NumAleatorioU;
     goto PunterosDobles;
