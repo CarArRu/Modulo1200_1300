@@ -37,9 +37,12 @@ int main(void){
     printf("\nPrograma Maestro");
 	
 
-    /**goto NumAleatorioU;
+    goto NumAleatorioU;
     goto PunterosDobles;
-    goto OperacionContinue;*/
+
+    printf("\nAportacion del Developer B");
+
+    goto OperacionContinue;
 
     ///Static
     ContadorStatic();
