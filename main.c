@@ -44,6 +44,9 @@ int main(void){
     goto PunterosDobles;
     goto OperacionContinue;
 
+
+    printf("\nAportacion del DeveloperC");
+
     ///Static
     ContadorStatic();
     ContadorStatic();
